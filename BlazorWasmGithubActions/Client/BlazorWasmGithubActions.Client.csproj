@@ -13,7 +13,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Shared\BlazorWasmGithubActions.Shared.csproj" />
-    <ProjectReference Include="..\Server\BlazorWasmGithubActions.Server.csproj" />
   </ItemGroup>
 
   <ItemGroup>
